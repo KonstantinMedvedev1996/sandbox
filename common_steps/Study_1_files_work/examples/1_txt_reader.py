@@ -1,8 +1,8 @@
 # from files import TXT_FILE_PATH
 
-# TXT_FILE_PATH = '../files/example.txt'
+TXT_FILE_PATH = 'common_steps/study_1_files_work/examples/example.txt'
 
-TXT_FILE_PATH = "example.txt"
+# TXT_FILE_PATH = "example.txt"
 
 some_file = open(TXT_FILE_PATH, "r")
 
