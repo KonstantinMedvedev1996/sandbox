@@ -1,6 +1,6 @@
-import faker
+# import faker
 
-some_file = open("example_write.txt", "w")
+some_file = open("common_steps/study_1_files_work/files/example_write.txt", "w")
 
 text = """Nature's bequest gives nothing but doth lend,
 And being frank she lends to those are free
